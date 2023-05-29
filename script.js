@@ -25,7 +25,7 @@ addAnimation(`
 
 
 var element = document.createElement("div");
-element.className = "cylon-eye";
+element.IdName = "line";
 element.style.height = "2px";
 element.style.width = "200px";
 element.style.backgroundColor = "black";
