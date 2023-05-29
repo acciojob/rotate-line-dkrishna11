@@ -24,8 +24,7 @@ addAnimation(`
 
 
 
-var element = document.createElement("div");
-element.IdName = "line";
+var element = document.getElementById("line");
 element.style.height = "2px";
 element.style.width = "200px";
 element.style.backgroundColor = "black";
